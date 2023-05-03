@@ -1,6 +1,7 @@
-0.6
-2019.2
-Nov  6 2019
-21:57:16
-Y:/Documents/DDCA/ALU_Testbench/ALU_Testbench.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
-Y:/Documents/DDCA/ALU_Testbench/ALU_Testbench.srcs/sim_1/imports/DDCA/ALU_test.v,1683129762,verilog,,,,ALU_test,,,,,,,,
+0.7
+2020.2
+Feb 21 2023
+20:21:35
+C:/Users/mehme/Documents/Lab6/ALU_Testbench.sim/sim_1/behav/xsim/glbl.v,1683138941,verilog,,,,glbl,,,,,,,,
+C:/Users/mehme/Documents/Lab6/ALU_Testbench.srcs/sim_1/imports/DDCA/ALU_test.v,1683141320,verilog,,,,ALU_test,,,,,,,,
+C:/Users/mehme/Downloads/lab6_files/lab6_files/bad_ALU.v,1683150073,verilog,,C:/Users/mehme/Documents/Lab6/ALU_Testbench.srcs/sim_1/imports/DDCA/ALU_test.v,,bad_ALU,,,,,,,,

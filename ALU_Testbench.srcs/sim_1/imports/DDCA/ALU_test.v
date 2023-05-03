@@ -51,7 +51,7 @@ module ALU_test;
 	//
    // for each testcase.
    // Note: we will not store 'exp_zero' in this array.
-   reg[99:0] testvec[100:0];
+   reg[99:0] testvec[11:0];
    
    
    
@@ -126,5 +126,5 @@ module ALU_test;
 
    // TO DO:
    // Instantiate the Unit Under Test (UUT)
-   
+   bad_ALU UUT (a, b,aluop, result, zero);
 endmodule

@@ -1,5 +1,6 @@
 # compile verilog/system verilog design source files
 verilog xil_defaultlib  \
+"../../../../../../Downloads/lab6_files/lab6_files/bad_ALU.v" \
 "../../../../ALU_Testbench.srcs/sim_1/imports/DDCA/ALU_test.v" \
 
 # compile glbl module
